@@ -1,16 +1,11 @@
-# Superstore Sales Performance & Interactive BI Dashboard
+# Supermarket Sales Performance & Interactive BI Dashboard
 
-An interactive Power BI business intelligence project analyzing retail sales, profitability, regional performance, and product trends.
+**Role & Execution:** BI & Data Analyst.
 
-## 📊 Key Highlights
-- Data cleaning and transformation using **Power Query**.
-- Relational data modeling with an active Date Hierarchy and **DAX** measures (`Total Sales`, `Total Profit`, `Profit Margin %`, `Running Total`, `YoY Growth`).
-- Multi-page interactive views (*Executive Analysis*, *Product Analysis*, *Product Details*) with slicers and cross-page drill-through.
-
-## 🛠️ Tools Used
-- Microsoft Power BI
-- Power Query & DAX
-- Data Modeling & Visualization
+- **System Scope:** Designed and developed an automated Power BI reporting system and KPI calculation framework using the Sample Superstore dataset to support management decision-making.
+- **Technical Implementation:** Imported and transformed raw data using Power Query Editor, built a robust star-schema relational data model with an active Date Hierarchy table, and engineered advanced DAX measures (Total Sales, Total Profit, Profit Margin %, Running Total, and Year-over-Year Growth) alongside calculated columns (Profitability Category and Shipping Delay).
+- **Interactive Dashboards & UI:** Developed 3 comprehensive analytical report pages (Executive Analysis, Product Analysis, and Product Details) featuring custom KPI cards, trend lines, regional performance charts, category breakdowns, global multi-tier slicers, and cross-page drill-through functionality.
+- **Tech Stack:** Microsoft Power BI, Power Query, DAX, Data Modeling, ETL Pipeline Architecture, Interactive Slicers, Exploratory Data Analysis.
 
 ## 🖼️ Dashboard Preview
 ![Screenshot 1](Screenshot%202026-10-14%20181113.png)
